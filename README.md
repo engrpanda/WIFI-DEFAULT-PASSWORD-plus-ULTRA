@@ -14,6 +14,7 @@ https://play.google.com/store/apps/details?id=com.wifipass.panda&hl=en_US
 
 
 # PLDTFIBR_xxxxxx
+#
 
 ![screen1](https://github.com/engrpanda/WIFI-DEFAULT-PASSWORD-plus-ULTRA/blob/master/app%20ss/1.PNG)
 
@@ -53,7 +54,7 @@ c = 3,
 So the password will be wlan3a3b36
 
 
-# 
+
 # PLDTHOMEFIBRxxxxx
 #
 
@@ -90,7 +91,7 @@ c = 3,
 
 So the password will be PLDTWIFIedc543
 
-#
+
 # PLDTHOMEDSL, PLDTmyDSLPAL or PLDmyDSLBiz
 #
 
@@ -108,7 +109,7 @@ The Last 5 digit is FC5A8
 
 So the password will be PLDTWIFIFC5A6
 
-#
+
 # HomeBro_Ultera
 #
 
@@ -126,7 +127,7 @@ The Last 6 digit is 0FC5A8
 
 So the password will be HomeBro_0FC5A8
 
-#
+
 # PLDTHOMEDSLxxxxx
 #
 
@@ -143,7 +144,7 @@ Multiply the last 5 digit number by 3
 So the password will be PLDTWIFI64062
 
 
-#
+
 # PLDTHOMEDSLxxxxx
 # 
 
