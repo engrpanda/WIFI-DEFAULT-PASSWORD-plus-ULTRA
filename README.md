@@ -1,6 +1,6 @@
 # WIFI-DEFAULT-PASSWORD-plus-ULTRA
 
-.[https://github.com/engrpanda/WIFI-DEFAULT-PASSWORD-plus-ULTRA/blob/master/app%20ss/0.PNG]
+!.[https://github.com/engrpanda/WIFI-DEFAULT-PASSWORD-plus-ULTRA/blob/master/app%20ss/0.PNG]
 
 Forgot your WIFI default password?
 
