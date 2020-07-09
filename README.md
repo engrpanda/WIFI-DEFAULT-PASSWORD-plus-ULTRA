@@ -2,7 +2,7 @@
 
 Forgot your WIFI default password?
 
-This app generates default password for common WIFI.
+This app generates default password for common WIFI i.e PLDT.
 
 I put 8 kinds of unique router SSID's. (more to come)
 
