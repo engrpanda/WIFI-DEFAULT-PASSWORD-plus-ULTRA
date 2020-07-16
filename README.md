@@ -26,29 +26,51 @@ Sample: PLDTFIBR_c5c4c9
 Convert the last 6 digits/letters to the corresponding hex code
 
 HEX CODE TABLE
+
 0=f
+
 1=e
+
 2=d
+
 3=c
+
 4=b
+
 5=a
+
 6=9
+
 7=8
+
+
 8=7
+
 9=6
+
 a=5
+
 b=4
+
 c=3
+
 d=2
+
 e=1
+
 f=0
 
 
 c = 3,
+
 5 = a,
+
 c = 3,
+
 4 = b,
+
 c = 3,
+
 9 = 6,
 
 So the password will be wlan3a3b36
@@ -64,29 +86,51 @@ So the password will be wlan3a3b36
 
 Sample: PLDTHOMEFIBR123abc
 Convert the last 6 digits/letters to the corresponding hex code
+
 HEX CODE TABLE
+
 0=f
+
 1=e
+
 2=d
+
 3=c
+
 4=b
+
 5=a
+
 6=9
+
 7=8
+
 8=7
+
 9=6
+
 a=5
+
 b=4
+
 c=3
+
 d=2
+
 e=1
+
 f=0
 
 1 = e,
+
 2 = d,
+
 3 = c,
+
 a = 5,
+
 b = 4,
+
 c = 3,
 
 So the password will be PLDTWIFIedc543
@@ -101,7 +145,7 @@ So the password will be PLDTWIFIedc543
 
 Sample: PLDTHOMEDSL
 
-Using 3rd party MAC Scanner (i.e  WIFI Analyzer). 
+Using 3rd party MAC Scanner (i.e  WIFI Analyzer). https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer&hl=en
 
 The WIFI Mac Address is 00:1F:FB:0F:C5:A8
 
