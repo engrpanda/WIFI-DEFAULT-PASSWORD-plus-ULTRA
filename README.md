@@ -27,6 +27,8 @@ Convert the last 6 digits/letters to the corresponding hex code
 
 HEX CODE TABLE
 
+#
+
 0=f
 
 1=e
@@ -60,6 +62,7 @@ e=1
 
 f=0
 
+# 
 
 c = 3,
 
@@ -89,6 +92,8 @@ Convert the last 6 digits/letters to the corresponding hex code
 
 HEX CODE TABLE
 
+#
+
 0=f
 
 1=e
@@ -120,6 +125,8 @@ d=2
 e=1
 
 f=0
+
+#
 
 1 = e,
 
