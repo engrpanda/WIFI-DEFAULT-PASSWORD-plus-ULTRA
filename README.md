@@ -25,9 +25,9 @@ Sample: PLDTFIBR_c5c4c9
 
 Convert the last 6 digits/letters to the corresponding hex code
 
-HEX CODE TABLE
 
 #
+HEX CODE TABLE
 
 0=f
 
@@ -90,9 +90,9 @@ So the password will be wlan3a3b36
 Sample: PLDTHOMEFIBR123abc
 Convert the last 6 digits/letters to the corresponding hex code
 
-HEX CODE TABLE
 
 #
+HEX CODE TABLE
 
 0=f
 
