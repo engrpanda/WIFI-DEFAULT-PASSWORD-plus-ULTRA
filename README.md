@@ -8,6 +8,8 @@ I put 8 kinds of unique router SSID's. (more to come)
 
 https://play.google.com/store/apps/details?id=com.wifipass.panda&hl=en_US
 
+https://github.com/engrpanda/WIFI-DEFAULT-PASSWORD-plus-ULTRA/releases
+
 ![screen1](https://github.com/engrpanda/WIFI-DEFAULT-PASSWORD-plus-ULTRA/blob/master/app%20ss/0.PNG)
 
 
