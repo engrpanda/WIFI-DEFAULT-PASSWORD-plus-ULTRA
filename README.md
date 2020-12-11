@@ -215,3 +215,12 @@ Using Scientific calculator convert 547AD Hex to Dec and multiply to 3, and the 
 So the password will be PLDTWIFI1038087
 
 
+## Contact
+Have an project? DM me at 👇
+
+Drop a mail to: engrpandaece@gmail.com
+
+# Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/engrpandaece)
